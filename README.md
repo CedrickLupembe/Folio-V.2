@@ -37,4 +37,4 @@ You don't have to give me credits for that, unless you're copying most of them. 
 * `Aos` for animation on scroll
 
 
-Let me know what you think of this demo 👉 [cedrickfolio.com](https://cedricklupembe.github.io/Folio-Version-2/)
+Let me know what you think of this demo 👉 [cedlupembe](https://cedlupembe.vercel.app/)
