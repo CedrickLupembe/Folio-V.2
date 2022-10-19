@@ -1,7 +1,7 @@
 # Portfolio - V2 🚀🔥
 
 
-The second iteration of my unfinished portfolio but done 😂 built with __html__, __css__, __vanilla js__ and hosted with __github pages__
+The second iteration of my unfinished portfolio but done 😂 built with __html__, __css__, __vanilla js__ and hosted with __Vercel__
 
 
 
